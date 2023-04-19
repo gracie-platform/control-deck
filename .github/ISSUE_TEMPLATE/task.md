@@ -1,5 +1,5 @@
 ---
-name: Task template
+name: Task
 about: This is to track non code based tasks.
 title: "[ TASK ]"
 labels: task
