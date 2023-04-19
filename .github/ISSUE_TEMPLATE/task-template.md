@@ -7,12 +7,19 @@ assignees: ''
 
 ---
 
-###Task Name: 
-Enter a 50 character summary of the task
+**Summary:** Define a summary of the task.}
 
-**Dependencies:** Outline dependencies here
-**Details:**
+**Dependents:** Outline task or issue dependencies here. 
+**Observers:** @frasercarter, Tag anyone who should be aware of this task.
+
+
+**Detail:**
 Expand on what is required.
+
+**Sub-Tasks:**
+- [x] #1  
+- [ ] https://github.com/gracie-platform/control-deck/discussions/1
+- [ ] Another Example
 
 
 Read the markdown guidelines here: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
