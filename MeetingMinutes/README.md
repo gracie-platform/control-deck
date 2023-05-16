@@ -1,5 +1,12 @@
+# Meeting Minutes
+This is the location for all control-deck meetings relating to management, strategy, stakeholder and informal catchups.
 
+## New Meetings
+Please ensure filenames align with naming formats as per below. \
+**%type%_%yyyy%-%mm%-%dd%.md**
 
-| Meeting Agenda | Date | Link |
-|----------------|------|------|
-| Catchup | 2023-04-19 | https://docs.google.com/document/d/1Zm5yxM7hO-BDqess2gCWlGPGCJ9uwCv9ai9CZ5C6FSQ |
+**Examples** \
+Informal_2023-05-20.md \
+Marketing_2023-05-20.md \
+Shareholder_2023-05-20.md
+
