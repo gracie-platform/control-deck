@@ -2,7 +2,7 @@
 This is the location for all control-deck meetings relating to management, strategy, stakeholder and informal catchups.
 
 ## New Meetings
-Please ensure filenames align with naming formats as per below. \
+Please copy the contents of _template.md and create a new file with a naming formats as per below. \
 **%type%_%yyyy%-%mm%-%dd%.md**
 
 **Examples** \
