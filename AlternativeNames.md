@@ -1,0 +1,10 @@
++ Aida "happy" (Arabic, but popular in latino communities) 
++ Leda "happy" (Greek and rare name) 
++ Leta "glad/joyful" (Latin - likely related to Leda and maybe the original that then changed to other more specific spellings for different cultures) 
++ Deia "joy" (Latin) 
++ Emmy "whole/universal" (from Emma) 
++ Onni "happiness, lucky (Finnish) 
++ Felicity "joy, happiness" (nicknames: Fee, Letty, Flick - Flick could be worked into some sort of tagline/copy.) 
++ Bea "she who brings happiness" (nickname of Beatrice) 
++ Lexi "protector of man" (nickname of Alexandra) 
++ Abby "joy of the father"
