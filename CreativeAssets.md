@@ -1,4 +1,4 @@
-We have purchased some creative assets with commercial licensing that can be used for Marketing Purposes, Links Below
+We have purchased some creative assets with commercial licensing that can be used for Marketing Purposes.
 
 Images & Graphics
 + https://creativemarket.com/avalonrosedesign/53046-Summer-Garden-Silk-Flowers-Graphics
