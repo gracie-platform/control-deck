@@ -1,4 +1,4 @@
 SpendList
 
-+ Patent Application
-+ Trademark
++ [ ] Patent Application
++ [ ] Trademark
