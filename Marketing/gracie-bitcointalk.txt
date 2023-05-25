@@ -1,0 +1,47 @@
+[glow=yellow,2,300][color=blue][size=12pt][b]Welcome to the New Era of E.I[/b][/size][/color]
+[/glow]
+Imagine yourself coming home after a tough week, Netflix is responding to your emotional state and recommending some hilarious comedies to cheer you up, your best friend has just received a notification suggesting that they should give you a call, Amazon has proactively sent your favorite block of chocolate and a bottle of wine and your boss has been recommended to give you some time off this week. This is the future that we envision a world where your emotions matter and your experience is tailored to how you are feeling, the era of Emotional Intelligence.
+
+Gracie is a platform that enables organizations to create happier and more productive environments by collecting and indexing data about personal satisfaction that it presents via an intuitive, decentralized web3 interface that connects users with partnering services, offers and advice. We strive to be an open standard protocol and establish a foundation for the integration of emotion- and logic-driven systems. As humanity’s use of artificial intelligence advances, the need for the integration of the two systems of logic and emotion will increase; however, without an interface and feedback mechanism, A.I. will fail to support our increasingly diverse needs.
+
+[glow=yellow,2,300][color=blue][size=12pt][b]Who is Behind Gracie?[/b][/size][/color]
+[/glow]
+Our core team is:
+
+[list]
+[li][url=https://www.linkedin.com/in/frasersmith/][u]Fraser Smith[/u][/url] - Founder and Technical Lead with over 10 years experience in systems engineering and software development[/li]
+[li][url=https://www.linkedin.com/in/brittanywengel/][u]Brittany Wengel[/u][/url] - Co-Founder and CMO with over 10 years experience in big brand marketing and 2~ years in Web3 startup advisory.[/li]
+[li][url=https://www.linkedin.com/in/victorwiebe1/][u]Victor Weibe[/u][/url] - Lead Blockchain Engineer with over 10 years experience in software development and 5+ years in blockchain.[/li]
+[/list]
+
+For more information and up to date team listings please see [url=https://gracie.network/team.html][u]our website.[/u][/url]
+
+[b][color=blue]Our Mission:[/color][/b]
+
+Gracie’s penultimate goal is to create a new market in satisfaction; enabling the trading and monetization of emotion derived data and supporting the exploration of organizational futarchy. We will support self-sovereignty in regards to payments and identity, we will strive to decentralize our infrastructure, modularize and open source application components where possible, enabling greater adoption and opportunities for our partners, clients and the broader Ethereum ecosystem.
+
+[glow=yellow,2,300][color=blue][size=12pt][b]GRACE Token ICO Pre-sale [/b][/size][/color]
+[/glow]
+We will be selling 5,500,000 tokens (5% of Total Supply) from our strategic reserve at $0.10 (86.8% discount) @ at a valuation of $5.5M. These funds will be used to cover the Year 1 development goals outlined in the [url=https://docs.google.com/document/d/1DuMF8zlCzQ6R1CG3bmdbFycIER9VclhS70pLY_FZ1sg/edit#heading=h.j5wdpw8ud2s2][u]Roadmap[/u][/url] section of the Whitepaper, this includes development of the web app and admin dashboard, product refinement, development of an SDK and other organizational related expenses.
+[center]
+
+[b][size=10pt][glow=blue,2,300][color=yellow]!!! REGISTER FOR OUR PRE-SALE !!![/color][/glow][/size][/b]
+[size=20pt][url=https://docs.google.com/forms/d/1w78ZxbWapQdOtS9C7wgFdnL7yLjxqAS93KeuKAPj3jQ][u]Click Here[/u][/url][/size]
+[b][size=10pt][glow=blue,2,300][color=yellow]!!! REGISTER FOR OUR PRE-SALE !!![/color][/glow][/size][/b]
+[/center]
+
+GRACE tokens are a limited (111,000,000) non-inflationary governance and utility token, which grants the organization or individual rights to participate in the development of Gracie, to collect fees from transactions and to issue (mint) HELP tokens. HELP tokens are used to reward participation in metric collection, they are inflationary and their release rate is set by consensus among GRACE holders.
+
+[color=blue][b]ERC-20 Contract:[/b][/color][url=https://etherscan.io/token/0xd0432a0159e2c580b2c9d34cb9fd59a1ec6f7857][u] https://etherscan.io/token/0xd0432a0159e2c580b2c9d34cb9fd59a1ec6f7857[/u][/url]
+
+
+[hr]
+[center]
+[color=blue][size=16pt][url=https://gracie.network/]WEBSITE[/url] | [url=https://www.linkedin.com/company/gracie-network/]LINKEDIN[/url] |[url=https://discord.gg/t3956PzfyF] DISCORD[/url] | [url=https://twitter.com/gracie_network]TWITTER[/url] | [url=https://docs.google.com/document/d/1DuMF8zlCzQ6R1CG3bmdbFycIER9VclhS70pLY_FZ1sg]WHITEPAPER[/url][/size][/color]
+[/center]
+[hr]
+
+[b]GRACIE Inc.[/b]
+Your happiness is our business | hello@gracie.network
+
+

@@ -1,0 +1,10 @@
+- Daniel Patrick
+  - http://instagram.com/danielpatrick
+- Zachariah Stuef
+  - https://www.instagram.com/p/CZ0eHURLe8f/
+  - stuefcreative@gmail.com
+  - wants 100 for preliminary work 
+  - wants $2000 for the project.
+- Sabrina Smelko
+  - https://dribbble.com/shots/15604398-Meghan-Team-Portraits-for-Hard-Word-Club/attachments/7392286?mode=media  
+  - 
